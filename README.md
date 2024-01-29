@@ -1,2 +1,3 @@
 # Git_Training
-This is a read file
+This is a readme file.
+Don't delete it.
